@@ -1,5 +1,6 @@
 # Tidy data
 
+(tidy data)[file:///Users/toby/Downloads/v59i10.pd((
 Files available in this package:
 
 * `tidy-data.tex` and `tidy-data.pdf`: the latex source to generate the paper 
